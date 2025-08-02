@@ -1,5 +1,4 @@
 
-
 # BIG DATA Analytics 
 Welcome to the BigData Analytics repository! This repository is designed to provide you with hands-on experience and practical instructions for working with various Big Data tools and technologies. This setup will create Docker containers with the following frameworks: HDFS, HBase, Hive, Spark, Jupyter, Hue, MongoDB, Kafka, MySQL, and Zookeeper:
 
